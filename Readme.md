@@ -1,4 +1,4 @@
-#AMQP Publish Subscribe
+# AMQP Publish Subscribe
 
 The assumption behind a work queue is that each task is delivered to exactly one worker.
 
